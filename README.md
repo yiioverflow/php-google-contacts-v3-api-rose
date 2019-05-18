@@ -10,7 +10,7 @@ PHP library for the Google Contacts API (v3)
 
 This package and its dependencies can be installed using `composer`. 
 
-Just run `composer require rapidwebltd/php-google-contacts-v3-api`.
+Just run `composer require yiioverflow/php-google-contacts-v3-api`.
 
 ## Setup
 
