@@ -1,9 +1,9 @@
 {
-    "name": "rapidwebltd/php-google-contacts-v3-api",
+    "name": "yiioverflow/php-google-contacts-v3-api-rose",
     "type": "library",
     "description": "PHP library for the Google Contacts API (v3)",
     "keywords": ["google", "php", "contacts"],
-    "homepage": "https://github.com/rapidwebltd/php-google-contacts-v3-api",
+    "homepage": "https://github.com/yiioverflow/php-google-contacts-v3-api-rose",
     "license": "MIT",
     "require": {
         "php": ">=5.2.1",
@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "rapidweb\\googlecontacts\\": "."
+            "rapidweb\\rosecontacts\\": "."
         }
     }
 }
